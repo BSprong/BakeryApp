@@ -1,0 +1,45 @@
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe.config
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.pdb
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.bakkerijForm.resources
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.Properties.Resources.resources
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csproj.GenerateResource.Cache
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.exe
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.pdb
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csprojResolveAssemblyReference.cache
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe.config
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.exe
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.pdb
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csprojResolveAssemblyReference.cache
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.bakkerijForm.resources
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.Properties.Resources.resources
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csproj.GenerateResource.Cache
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.pdb
+C:\Users\Bas\Downloads\Bakkerij GoedGespelt (start)\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe.config
+C:\Users\Bas\Downloads\Bakkerij GoedGespelt (start)\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.exe
+C:\Users\Bas\Downloads\Bakkerij GoedGespelt (start)\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.pdb
+C:\Users\Bas\Downloads\Bakkerij GoedGespelt (start)\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe
+C:\Users\Bas\Downloads\Bakkerij GoedGespelt (start)\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.pdb
+C:\Users\Bas\Downloads\Bakkerij GoedGespelt (start)\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csprojResolveAssemblyReference.cache
+C:\Users\Bas\Downloads\Bakkerij GoedGespelt (start)\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.bakkerijForm.resources
+C:\Users\Bas\Downloads\Bakkerij GoedGespelt (start)\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.Properties.Resources.resources
+C:\Users\Bas\Downloads\Bakkerij GoedGespelt (start)\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csproj.GenerateResource.Cache
+C:\Users\Bart\Documents\OOP\week11\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe.config
+C:\Users\Bart\Documents\OOP\week11\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.exe
+C:\Users\Bart\Documents\OOP\week11\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.pdb
+C:\Users\Bart\Documents\OOP\week11\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe
+C:\Users\Bart\Documents\OOP\week11\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.pdb
+C:\Users\Bart\Documents\OOP\week11\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csprojResolveAssemblyReference.cache
+C:\Users\Bart\Documents\OOP\week11\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.bakkerijForm.resources
+C:\Users\Bart\Documents\OOP\week11\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.Properties.Resources.resources
+C:\Users\Bart\Documents\OOP\week11\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csproj.GenerateResource.Cache
+C:\Users\Anneke\Documents\OOP\week11\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe.config
+C:\Users\Anneke\Documents\OOP\week11\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.exe
+C:\Users\Anneke\Documents\OOP\week11\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.pdb
+C:\Users\Anneke\Documents\OOP\week11\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe
+C:\Users\Anneke\Documents\OOP\week11\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.pdb
+C:\Users\Anneke\Documents\OOP\week11\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csprojResolveAssemblyReference.cache
+C:\Users\Anneke\Documents\OOP\week11\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.bakkerijForm.resources
+C:\Users\Anneke\Documents\OOP\week11\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.Properties.Resources.resources
+C:\Users\Anneke\Documents\OOP\week11\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csproj.GenerateResource.Cache
